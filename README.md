@@ -8,3 +8,9 @@ Back end: PHP, MySQL
 PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers to create dynamically generated web pages, in HTML, XML, or other document types, as per client request. PHP is open source software. 
 
 MySQL: MySql is a database, widely used for accessing querying, updating, and managing data in databases. 
+
+<div>
+  <img src="./image/op1.png" alt="Horizontal Image" style="width:500px;vertical-align:top"/>
+  <img src="./image/op2.png" alt="Vertical Image" style="width:500px;"/>
+  
+</div>
